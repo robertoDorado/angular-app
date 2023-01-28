@@ -1,0 +1,9 @@
+.footer-span {
+    font-size: .9rem;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}

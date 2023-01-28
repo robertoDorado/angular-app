@@ -1,0 +1,17 @@
+form {
+    display:flex;
+    flex-direction: column;
+    padding: 1rem 2rem;
+}
+
+.card-form-product {
+    width:450px;
+}
+
+.title-card {
+    padding-left: 2rem;
+}
+
+button[color="primary"] {
+    margin-right: 1rem;
+}

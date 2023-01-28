@@ -1,0 +1,29 @@
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 1rem;
+    max-width:450px;
+}
+
+.title-card {
+    padding-left: 1rem;
+}
+
+.card-form-product {
+    max-width: 500px;
+}
+
+button {
+    max-width:100px;
+}
+
+button[color="primary"] {
+    margin-bottom: 1rem;
+    margin-right:1rem;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
